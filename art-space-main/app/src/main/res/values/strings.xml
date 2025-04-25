@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application -->
+    <string name="app_name">ArtSpace</string>
+
+    <!-- Navigation buttons -->
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <!-- Artwork titles & years -->
+    <string name="mona_lisa">Mona Lisa</string>
+    <string name="mona_lisa_year">1503</string>
+
+    <string name="starry_night">Starry Night</string>
+    <string name="starry_night_year">1889</string>
+
+    <string name="girl_with_pearl_earring">Girl with a Pearl Earring</string>
+    <string name="girl_with_pearl_earring_year">1665</string>
+
+    <string name="birth_of_venus">The Birth of Venus</string>
+    <string name="birth_of_venus_year">1486</string>
+</resources>
